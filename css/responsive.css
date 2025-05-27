@@ -1,0 +1,3485 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+
+/* topbar css */
+
+.kayan-top-menu ul li {
+    margin-right: 38px; 
+}
+
+/* kayan header */
+
+.kayan-header-section::before {
+    width: 26%;
+}
+
+.kayan-header-section::after {
+    right: 71%;
+}
+
+/* kayan menu css */
+
+.kayan-menu ul li a i {
+    margin-left: 0px;
+}
+
+.kayan-menu ul li {
+    margin-right: 15px;
+}
+
+.kayan-social-menu ul li {
+    margin-left: 5px;
+}
+
+.kayan-btn {
+    margin-left: 15px;
+}
+
+/* about section */
+
+.about-section {
+    padding: 110px 0 110px;
+}
+
+.about-text {
+    left: -28px;
+}
+
+.about-shape {
+    left: -28px;
+    z-index: -1;
+}
+
+/* offer section */
+
+.offer-item-thumb {
+    margin-left: -20px;
+}
+
+/* counter section */
+
+.counter-item-box {
+    padding: 23px 5px 5px;
+}
+
+/* choose us  */
+
+.section-main-title.offer h2 {
+    line-height: 36px;
+    font-size: 34px;
+}
+
+.choose-us-box {
+    padding: 20px 6px 1px;
+}
+
+/* call do action css */
+
+.col-do-section::after {
+    right: -5%;
+}
+
+.call-do-title {
+    margin-left: -42px;
+}
+
+.col-do-icon {
+    margin-left: -30px;
+}
+
+/* portfolio section  */
+
+.portfolio-itmes-box {
+    margin: 5px;
+}
+
+.portfolio-thumb img {
+    width: 100%;
+}
+
+.portfolio-content {
+    left: 0px;
+}
+
+.portfolio-itmes-box:hover .portfolio-content {
+    bottom: 40px;
+}
+
+.portfolio-content-text {
+    width: 85%;
+}
+
+/* testimonial section */
+
+.testi-itmes-box {
+    padding: 50px 22px 26px;
+}
+
+/* blog section */
+
+.blog-items-box.two {
+    padding: 40px 0px 26px 5px;
+}
+
+.blog-bottom-title.two {
+    margin-right: 13px;
+}
+
+.blog-date {
+    display: none;
+}
+
+.blog-content {
+    padding: 0 10px 0;
+}
+
+.blog-meta span {
+    padding-right: 30px;
+}
+
+.blog-bottom-shape {
+    margin-right: 4px;
+}
+
+.blog-bottom-title {
+    margin-right: 27px;
+}
+
+.blog-title.two::before {
+    display: none;
+}
+
+/* get start section */
+
+.section-main-title.get h2 {
+    margin-bottom: 16px;
+}
+
+/* form box */
+.form-box select {
+    width: 100%;
+}
+
+.form-box textarea {
+    width: 100%;
+}
+
+/* footer section */
+
+.footer-section {
+    padding: 109px 0 0px;
+}
+
+.footer-thumb {
+    margin: -110px 0px -197px;
+}
+
+.footer-icon {
+    left: 35px;
+}
+
+.footer-shape {
+    left: 8px;
+}
+
+.footer-condition ul li {
+    margin-right: 31px;
+}
+
+
+/* home page style two */
+
+.slider-content.style-two h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+
+/* about style two */
+
+.about-text.style-two {
+    top: 0;
+}
+
+.about-shape-two {
+    display: none;
+}
+
+/* service section style two */
+
+.service-section.style-two {
+    padding: 0px 0 52px;
+}
+
+.service-icon-thumb.style-two {
+    right: 40px;
+}
+
+/* get qoaute section */
+
+.row.get-quote {
+    padding: 60px 50px 60px;
+}
+
+.section-main-title.get-quote {
+    margin-left: -37px;
+}
+
+.get-quote-discription p {
+    margin-left: -30px;
+}
+
+/* faq section */
+
+.faq-section {
+    padding: 95px 0 94px;
+}
+
+.faq-thumb {
+    margin-top: 100px;
+}
+
+/* about inner page css */
+
+.about-section.style-two {
+    padding: 110px 0 110px;
+}
+
+/* service details inner page */
+
+.service-section.style-four {
+    padding: 82px 0 54px;
+}
+
+/* project grid inner page */
+
+.portfolio-section.style-two {
+    padding: 0px 0 0px;
+}
+
+/* project details  inner page css */
+
+.projetct-details-image img {
+    width: 100%;
+}
+
+.image img {
+    width: 100%;
+}
+
+/* faq inner page ccc */
+
+.section-main-title.faq h2 {
+    font-size: 36px;
+}
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+/* stiky nav */
+
+.sticky-nav {
+    top: -2px;
+}
+
+/* topbar css */
+
+.kayan-topbar-section {
+    padding: 14px 0;
+}
+
+.kayan-top-menu ul li {
+    margin-right: 8px;
+}
+
+.kayan-top-menu ul li a {
+    font-size: 13px;
+}
+
+.kayan-top-menu ul li a i {
+    font-size: 13px;
+    margin-right: 3px;
+}
+
+.kayan-top-menu ul li ::after {
+    display: none;
+}
+
+.kayan-top-content select#Language {
+    font-size: 16px;
+}
+
+.kayan-top-social-icon ul li a i {
+    font-size: 14px;
+}
+
+
+/* kayan header section */
+
+
+.kayan-header-section::before {
+    width: 26%;
+}
+
+.kayan-header-section::after {
+    right: 71%;
+}
+
+.logo a img {
+    width: 90%;
+}
+
+/* kayan menu css */
+
+
+.kayan-menu ul li {
+    margin-right: 7px;
+}
+
+.kayan-menu ul li a {
+    font-size: 16px;
+}
+
+.kayan-menu ul li a i {
+    margin-left: 0px;
+    font-size: 10px;
+}
+
+.kayan-social-menu ul li {
+    margin-left: 5px;
+}
+
+.kayan-social-menu ul li a i {
+    font-size: 15px;
+}
+
+.kayan-btn {
+    margin-left: 10px;
+}
+
+.kayan-btn a {
+    font-size: 16px;
+    padding: 12px 12px;
+}
+
+
+/* slider section */
+
+.slider-content h1 {
+    font-size: 65px;
+}
+
+/* about section */
+
+.about-section {
+    padding: 110px 0 110px;
+}
+
+.about-section-main-title h2 {
+    font-size: 40px;
+}
+
+.about-text {
+    left: -20px;
+}
+
+.about-shape {
+    left: -20px;
+    z-index: -1;
+}
+
+.about-list ul li i {
+    margin-right: 1px;
+}
+
+.kayan-btn.about a {
+    padding: 16px 13px;
+}
+
+/* service section */
+
+.service-main-title {
+    margin-left: 42px;
+}
+
+.service-main-content {
+    bottom: 0px;
+    height: 48px;
+}
+
+.service-main-title h3 {
+    font-size: 16px;
+}
+
+.service-icon-thumb {
+    height: 40px;
+    width: 40px;
+    line-height: 36px;
+}
+
+.service-text {
+    bottom: -239%;
+    width: 100%;
+    height: 230px;
+}
+
+/* offer section */
+
+.offer-item-thumb {
+    margin-left: -20px;
+}
+
+.offer-item-thumb img {
+    width: 100%;
+}
+
+.kayan-btn.offer {
+    margin-left: -20px;
+}
+
+/* counter section */
+
+.counter-item-box {
+    padding: 23px 32px 5px;
+    text-align: center;
+}
+
+.counter-icon {
+    display: none;
+}
+
+.counter-number h2 {
+    font-size: 40px;
+}
+
+.counter-number span {
+    font-size: 40px;
+}
+
+.counter-text p {
+    font-size: 18px;
+}
+
+/* choose us  */
+
+.choose-us-section {
+    padding: 0 0 90px;
+}
+
+.section-sub-title.offer h4 {
+    font-size: 20px;
+}
+
+.section-main-title.offer h2 {
+    line-height: 32px;
+    font-size: 29px;
+}
+
+.choose-us-box {
+    padding: 20px 10px 1px;
+}
+
+.choose-icon-thumb {
+    margin-top: 3px;
+}
+
+/* call do action css */
+
+.col-do-section::after {
+    display: none;
+}
+
+.call-do-title {
+    margin-left: -110px;
+}
+
+.col-do-icon {
+    margin-left: -30px;
+}
+
+/* portfolio section  */
+
+.portfolio-section {
+    background-size: contain;
+    
+}
+
+.portfolio-section .container-fluid {
+    margin-left: 10px;
+}
+
+.portfolio-itmes-box {
+    margin: 5px;
+}
+
+.portfolio-thumb img {
+    width: 100%;
+}
+
+.portfolio-content {
+    left: 0px;
+}
+
+.portfolio-itmes-box:hover .portfolio-content {
+    bottom: 40px;
+}
+
+.portfolio-content-text {
+    width: 85%;
+}
+
+.portfolio-content-text h4 a {
+    font-size: 20px;
+}
+
+.portfolio-section .owl-prev {
+    right: -38px;
+}
+
+/* testimonial section */
+
+.testi-itmes-box {
+    padding: 22px 8px 26px;
+}
+
+.testi-thumb {
+    margin-right: 14px;
+}
+
+.testi-content p {
+    font-size: 14px;
+}
+
+.testi-icon {
+    right: 10px;
+}
+
+/* blog section */
+
+.blog-items-box.two {
+    padding: 40px 0px 26px 5px;
+}
+
+.blog-thumb.two {
+    float: inherit;
+}
+
+.blog-thumb.two img {
+    width: 100%;
+}
+
+.blog-meta {
+    margin: 18px 0 30px;
+}
+
+.blog-meta.two span {
+    margin-right: -30px;
+}
+
+.blog-bottom-title.two {
+    margin-right: 30px;
+}
+
+.blog-title.two::before {
+    display: none;
+}
+
+/* get start section */
+
+.section-main-title.get h2 {
+    margin-bottom: 16px;
+}
+
+/* form box */
+.form-box select {
+    width: 100%;
+}
+
+.form-box textarea {
+    width: 100%;
+}
+
+
+/* home page style two css */
+
+/* about style two section */
+
+.about-section.style-three {
+    padding: 110px 0 86px;
+}
+
+.about-text.style-two {
+    width: 120px;
+    height: 133px;
+    padding: 4px 16px 0;
+    left: 74%;
+    top: 0;
+}
+
+.about-shape-two {
+    display: none;
+}
+
+.about-text.style-two h5 {
+    font-size: 36px;
+}
+
+.about-text.style-two span {
+    font-size: 36px;
+}
+
+.about-text.style-two p {
+    font-size: 16px;
+}
+
+/* service section style two */
+
+.service-section.style-two {
+    padding: 0px 0 54px;
+}
+
+
+/* get qouate section */
+
+.get-quote-section .form-box input {
+    padding-left: 10px;
+}
+
+.get-quote-section .form-box i {
+    display: none;
+}
+
+.form-box-button.quote button {
+    width: 100%;
+    font-size: 16px;
+}
+
+/* faq section */
+
+.faq-section {
+    padding: 97px 0 82px;
+}
+
+.faq-thumb {
+    margin-top: 150px;
+}
+
+/* portfolio section */
+
+.portfolio-section.style-two {
+    padding: 90px 0 80px;
+}
+
+/* testimonial section */
+
+.testimonial-section.style-two {
+    padding: 110px 0 0px;
+}
+
+.testimonial-thumb {
+    margin-left: 140px;
+}
+
+.testi-content-discripton p {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+/* pricing section */
+
+.pricing-section {
+    padding: 90px 0 110px;
+}
+
+/* offer section style two */
+
+.offer-email span {
+    font-size: 14px;
+}
+
+/* blog section style two */
+
+.blog-section.style-two {
+    padding: 93px 0 112px;
+}
+
+.blog-content {
+    padding: 0 0px 0;
+}
+
+.blog-meta.style-three span {
+    padding-right: 20px;
+}
+
+.blog-bottom-title.style-three {
+    margin-right: 18px;
+}
+
+/* service details inner page */
+
+.service-section.style-four {
+    padding: 82px 0 54px;
+}
+
+/* project grid inner page css */
+
+.projecti-grid-section {
+    padding: 110px 0 80px;
+}
+
+.project-content h4 {
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.portfolio-section.style-two {
+    padding: 93px 0 80px;
+}
+
+
+/* project details  inner page css */
+
+.projetct-details-image img {
+    width: 100%;
+}
+
+.image img {
+    width: 100%;
+}
+
+/* blog inner page css */
+
+.blog-bottom-shape.style-two {
+    margin-right: 10px;
+}
+
+.blog-bottom-title.style-two {
+    margin-right: 50px;
+}
+
+/* blog details inner page */
+
+.blog-details-thumb {
+    margin-top: 35px;
+}
+
+.ba-blog-details-social-icons a i {
+    font-size: 16px;
+}
+
+.content-main p {
+    font-size: 14px;
+}
+
+.choose-contact-box.inner {
+    margin-top: -50px;
+}
+
+/* team details inner page css */
+
+.team-details-author-img {
+    margin-bottom: 30px;
+}
+
+.process-ber-plugin {
+    display: none;
+}
+
+
+/* faq inner page css */
+
+.section-main-title.faq h2 {
+    font-size: 36px;
+}
+
+.choose-contact-box.faq {
+    padding: 46px 40px 60px;
+}
+
+
+
+}
+
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.kayan-topbar-section {
+    display: none;
+}
+
+.kayan-header-section {
+    display: none;
+}
+
+/* slider section */
+
+.slider-list.owl-carousel.owl-loaded.owl-drag {
+    display: inline-block;
+}
+
+.slider-section {
+    height: 700px;
+    display: block !important;
+}
+
+.slider-content {
+    padding: 120px 0 0;
+}
+
+.slider-content h1 {
+    font-size: 56px;
+    line-height: 54px;
+}
+
+.slider-content p {
+    width: 76%;
+    margin: 29px 0 43px;
+}
+
+/* about section */
+
+.about-section {
+    padding: 73px 0 66px;
+}
+
+.about-thumb {
+    margin-bottom: 53px;
+}
+
+.about-text {
+    left: -27px;
+}
+
+.about-shape {
+    left: -27px;
+    z-index: -1;
+}
+
+/* service section  */
+
+.service-section {
+    padding: 58px 0 43px;
+}
+
+/* offer section */
+
+.offer-section {
+    padding: 58px 0 50px;
+}
+
+.offer-content {
+    margin-left: -100px;
+}
+
+.offer-thumb {
+    margin-top: 55px;
+}
+
+/* counter section */
+
+.counter-section {
+    padding: 24px 0 44px;
+}
+
+.counter-item-box {
+    padding: 23px 67px 5px;
+    margin-bottom: 30px;
+}
+
+/* choose us section */
+
+.choose-us-section {
+    padding: 0 0 52px;
+}
+
+.choose-us-section .section-title {
+    margin: 23px 35px 0;
+}
+
+.section-main-title.offer h2 {
+    line-height: 44px;
+    font-size: 42px;
+}
+
+.choose-us-thumb {
+    margin-left: 36px;
+}
+
+.choose-us-discription {
+    margin-left: 47px;
+}
+
+.choose-us-box {
+    padding: 20px 10px 1px;
+    margin-left: 45px;
+}
+
+/* call do section */
+
+.col-do-section::before {
+    display: none;
+}
+
+.col-do-section::after {
+    display: none;
+}
+
+.call-do-title {
+    text-align: center;
+}
+
+.call-do-title h4 {
+    font-size: 23px;
+    line-height: 30px;
+}
+
+.col-do-icon {
+    text-align: right;
+}
+
+/* team section */
+
+.team-section {
+    padding: 34px 0 44px;
+}
+
+.team-items-box {
+    margin-bottom: 40px;
+}
+
+/* portfolio section */
+
+.portfolio-section {
+    padding: 35px 0 34px;
+}
+
+.portfolio-section .container-fluid {
+    margin-left: 0;
+}
+
+.portfolio-content {
+    left: 0;
+}
+
+.portfolio-content-text {
+    width: 80%;
+}
+
+
+/* testimonila section */
+
+.testi-itmes-box {
+    padding: 50px 13px 26px;
+}
+
+/* blog section */
+
+.blog-section {
+    padding: 32px 0 43px;
+}
+
+.blog-content {
+    padding: 0 14px 0;
+}
+
+.blog-thumb.two {
+    float: inherit;
+    text-align: center;
+    margin-right: 32px;
+}
+
+.blog-title.two::before {
+    display: none;
+}
+
+/* get start section */
+
+.get-strat-section .section-main-title h2 {
+    font-size: 43px;
+    margin-bottom: 20px;
+}
+
+/* footer section */
+
+.footer-section {
+    padding: 72px 0 0px;
+}
+
+.footer-wiget {
+    margin-bottom: 40px;
+}
+
+.footer-thumb {
+    display: none;
+}
+
+.footer-icon {
+    display: none;
+}
+
+.footer-shape {
+    display: none;
+}
+
+.row.footer-line {
+    margin: 40px 0 0;
+}
+
+.copyright-text {
+    text-align: center;
+}
+
+.copyright-text p {
+    font-size: 16px;
+}
+
+.footer-condition {
+    text-align: center;
+}
+
+.footer-condition ul li {
+    margin-right: -26px;
+}
+
+/* home page style two css */
+
+.slider-section.style-two {
+    height: 615px;
+}
+
+.slider-content.style-two {
+    padding: 72px 22px 64px;
+    margin: 72px 0 0px;
+}
+
+/* about style three */
+
+.about-section.style-three {
+    padding: 73px 0 0px;
+}
+
+.about-text.style-two {
+    left: 76%;
+}
+
+.about-shape-two {
+    right: 10px;
+}
+
+/* service style two */
+
+.service-section.style-two {
+    padding: 26px 0 12px;
+}
+
+.service-section.style-two .section-title {
+    text-align: center;
+}
+
+/* faq inner page  */
+
+.faq-section {
+    padding: 57px 0 45px;
+}
+
+.faq-thumb {
+    display: none;
+}
+
+.faq-section .owl-dots {
+    display: none;
+}
+
+/* protfolio secton style two */
+
+.portfolio-section.style-two {
+    padding: 58px 0 42px;
+}
+
+/* testimonial section style two */
+
+.testimonial-section.style-two {
+    padding: 58px 0 0px;
+}
+
+.testimonial-thumb {
+    margin-top: 130px;
+    margin-left: -27px;
+}
+
+.testimonial-shape {
+    display: none;
+}
+
+.testimonial-section.style-two .no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+}
+
+/* pricing section */
+
+.pricing-section {
+    padding: 58px 0 42px;
+}
+
+.pricing-box {
+    margin-bottom: 30px;
+}
+
+/* offer section style two */
+
+.offer-section.style-two {
+    padding: 63px 0px 73px;
+}
+
+.offer-section.style-two .form-box-button {
+    text-align: center;
+}
+
+.offer-email {
+    margin-bottom: 45px;
+}
+
+.offer-contact-shape {
+    display: none;
+}
+
+/* about us innnr page  */
+
+.about-section.style-two {
+    padding: 74px 0 72px;
+}
+
+.counter-section.style-two {
+    padding: 50px 0 20px;
+}
+
+/* service inner page  */
+
+.service-section.style-three {
+    padding: 58px 0 18px;
+}
+
+.service-section.style-four {
+    padding: 48px 0 17px;
+}
+
+/* service details inner page */
+
+.service-details-section {
+    padding: 73px 0 0px;
+}
+
+/* project grid inner page css */
+
+.projecti-grid-section {
+    padding: 74px 0 43px;
+}
+
+.protfolio-menu ul li {
+    padding: 10px 24px;
+    margin: 0px 5px 50px;
+}
+
+.project-content h4 {
+    font-size: 18px;
+}
+
+/* project details inner page */
+
+.project-details-section {
+    padding: 72px 0 72px;
+}
+
+.projetct-details-image img {
+    width: 100%;
+}
+
+.project-details-section .info li {
+    padding: 4px 0;
+}
+
+.project-details-section .info li h6 {
+    font-size: 16px;
+}
+
+.project-details-section .info li p {
+    font-size: 13px;
+    margin: 10px 0px 0;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    width:80%;
+}
+
+/* blog inner page  */
+
+.blog-section.style-two {
+    padding: 72px 0 42px;
+}
+
+.blog-items-box.style-three {
+    margin-bottom: 30px;
+}
+
+.blog-bottom-title {
+    margin-right: 50px;
+}
+
+.as-pagination {
+    margin-bottom: 50px;
+}
+
+.recent-widget-thumb {
+    margin-top: -4px;
+}
+
+/* blog details inner page */
+
+.blog-section.style-three {
+    padding: 72px 0 74px;
+}
+
+blockquote {
+    padding: 25px 12px 30px;
+}
+
+.ba-blog-comment-list {
+    margin-bottom: 0;
+}
+
+/* team inner page */
+
+.team-section.style-three {
+    padding: 55px 0 44px;
+}
+
+/* team details inner page  */
+
+.team-details-section {
+    padding: 60px 0 74px;
+}
+
+.team-details-author-img {
+    margin-top: 35px;
+}
+
+.team-details-author-name {
+    margin-bottom: 4px;
+}
+
+.team-details-author-experience ul li .value {
+    font-size: 13px;
+}
+
+
+.choose-contact-box.faq {
+    padding: 46px 38px 60px;
+}
+
+/* error inner page  */
+
+.error-section {
+    padding: 73px 0 74px;
+}
+
+/* contact us inner page */
+
+.contact-section {
+    padding: 60px 0 72px;
+}
+
+
+
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+
+.kayan-topbar-section {
+    display: none;
+}
+
+.kayan-header-section {
+    display: none;
+}
+
+/* slider section */
+
+.slider-list.owl-carousel.owl-loaded.owl-drag {
+    display: inline-block;
+}
+
+.slider-section {
+    height: 700px;
+    display: block !important;
+}
+
+.slider-content {
+    padding: 80px 0 0px;
+}
+
+.slider-content h1 {
+    font-size: 56px;
+    line-height: 54px;
+}
+
+.slider-content p {
+    width: 76%;
+    margin: 29px 0 43px;
+}
+
+/* owl nav css */
+
+.owl-nav {
+    right: 8px;
+}
+
+.owl-prev i {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+}
+
+.owl-next i {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+}
+
+/* appointment section */
+
+.appointment-contact-title h4 {
+    font-size: 47px;
+}
+
+/* about section */
+
+.about-section {
+    padding: 73px 0 66px;
+}
+
+.about-thumb {
+    margin-bottom: 53px;
+}
+
+.about-text {
+    left: -27px;
+}
+
+.about-shape {
+    left: -27px;
+    z-index: -1;
+}
+
+/* service section  */
+
+.service-section {
+    padding: 58px 0 43px;
+}
+
+/* offer section */
+
+.offer-section {
+    padding: 58px 0 50px;
+}
+
+.offer-content {
+    margin-left: -38px;
+}
+
+.offer-thumb {
+    margin-top: 55px;
+}
+
+/* counter section */
+
+.counter-section {
+    padding: 0px 0 37px;
+}
+
+.counter-item-box {
+    padding: 23px 67px 5px;
+    display: grid;
+    text-align: center;
+    border: none;
+}
+
+.counter-icon {
+    float: inherit;
+    margin: 0px 14px 20px;
+}
+
+/* choose us section */
+
+.choose-us-section {
+    padding: 0 0 52px;
+}
+
+.choose-us-section .section-title {
+    margin: 23px 35px 0;
+}
+
+.section-sub-title.offer h4 {
+    padding-left: 0;
+    font-size: 20px;
+}
+
+.section-main-title.offer h2 {
+    line-height: 32px;
+    font-size: 29px;
+}
+
+.choose-us-thumb {
+    margin-left: 36px;
+}
+
+.choose-us-discription {
+    margin-left: 47px;
+}
+
+.choose-us-box {
+    padding: 20px 10px 1px;
+    margin-left: 45px;
+}
+
+/* call do section */
+
+.col-do-section::before {
+    display: none;
+}
+
+.col-do-section::after {
+    display: none;
+}
+
+.call-do-title {
+    text-align: center;
+}
+
+.call-do-title h4 {
+    font-size: 23px;
+    line-height: 30px;
+}
+
+.col-do-icon {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* team section */
+
+.team-section {
+    padding: 34px 0 44px;
+}
+
+.team-items-box {
+    margin-bottom: 40px;
+}
+
+/* portfolio section */
+
+.portfolio-section {
+    padding: 35px 0 34px;
+}
+
+.portfolio-section .container-fluid {
+    margin-left: 0;
+}
+
+.portfolio-content {
+    left: 0;
+}
+
+.portfolio-content-text {
+    width: 80%;
+}
+
+
+/* testimonila section */
+
+.testi-itmes-box {
+    padding: 50px 13px 26px;
+}
+
+/* blog section */
+
+.blog-section {
+    padding: 32px 0 43px;
+}
+
+.blog-items-box {
+    margin-bottom: 30px;
+}
+
+.blog-content {
+    padding: 0 14px 0;
+}
+
+.blog-thumb.two {
+    float: inherit;
+    text-align: center;
+    margin-right: 32px;
+}
+
+.blog-title.two::before {
+    display: none;
+}
+
+/* get start section */
+
+.get-strat-section .section-main-title h2 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+/* subsccribe section */
+
+.sbuscribe-content h2 {
+    font-size: 46px;
+}
+
+.subscribe-section .form-box-button {
+    right: -25px;
+}
+
+/* footer section */
+
+.footer-section {
+    padding: 72px 0 0px;
+}
+
+.footer-wiget {
+    margin-bottom: 40px;
+}
+
+.footer-thumb {
+    display: none;
+}
+
+.footer-icon {
+    display: none;
+}
+
+.footer-shape {
+    display: none;
+}
+
+.row.footer-line {
+    margin: 40px 0 0;
+}
+
+.copyright-text {
+    text-align: center;
+}
+
+.copyright-text p {
+    font-size: 16px;
+}
+
+.footer-condition {
+    text-align: center;
+}
+
+.footer-condition ul li {
+    margin-right: -26px;
+}
+
+/* home page style two css */
+
+.slider-section.style-two {
+    height: 615px;
+}
+
+.slider-content.style-two {
+    padding: 72px 22px 64px;
+    margin: 72px 0 0px;
+}
+
+/* about style three */
+
+.about-section.style-three {
+    padding: 73px 0 0px;
+}
+
+.about-text.style-two {
+    left: 72%;
+    top: 0;
+}
+
+.about-shape-two {
+    display: none;
+}
+
+/* service style two */
+
+.service-section.style-two {
+    padding: 26px 0 12px;
+}
+
+.service-section.style-two .section-title {
+    text-align: center;
+}
+
+/* faq inner page  */
+
+.faq-section {
+    padding: 57px 0 45px;
+}
+
+.faq-thumb {
+    display: none;
+}
+
+.faq-section .owl-dots {
+    display: none;
+}
+
+/* protfolio secton style two */
+
+.portfolio-section.style-two {
+    padding: 58px 0 42px;
+}
+
+.portfolio-section.style-two .section-main-title h2 {
+    font-size: 47px;
+}
+
+/* testimonial section style two */
+
+.testimonial-section.style-two {
+    padding: 58px 0 0px;
+}
+
+.testimonial-thumb {
+    margin-top: 130px;
+    margin-left: -27px;
+}
+
+.testimonial-shape {
+    display: none;
+}
+
+.testimonial-section.style-two .no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+}
+
+/* pricing section */
+
+.pricing-section {
+    padding: 58px 0 42px;
+}
+
+.pricing-box {
+    margin-bottom: 30px;
+}
+
+/* offer section style two */
+
+.offer-section.style-two {
+    padding: 63px 0px 73px;
+}
+
+.offer-section.style-two .barfiller {
+    width: 100%;
+}
+
+.offer-contact-box {
+    padding: 38px 30px 45px;
+}
+
+.offer-section.style-two .form-box-button {
+    text-align: center;
+}
+
+.offer-email {
+    margin-bottom: 45px;
+}
+
+.offer-contact-shape {
+    display: none;
+}
+
+
+/* about us innnr page  */
+
+.about-section.style-two {
+    padding: 74px 0 72px;
+}
+
+.counter-section.style-two {
+    padding: 50px 0 20px;
+}
+
+/* service inner page  */
+
+.service-section.style-two {
+    padding: 58px 0 32px;
+}
+
+/* service details inner page */
+
+.service-details-section {
+    padding: 73px 0 0px;
+}
+
+.service-section.style-three {
+    padding: 58px 0 18px;
+}
+
+.service-details-thumb-two {
+    margin-bottom: 30px;
+}
+
+.service-section.style-four {
+    padding: 48px 0 17px;
+}
+
+/* project grid inner page css */
+
+.projecti-grid-section {
+    padding: 74px 0 43px;
+}
+
+.protfolio-menu ul li {
+    padding: 8px 14px;
+    margin: 0px 2px 50px;
+    font-size: 16px;
+}
+
+.project-content h4 {
+    font-size: 18px;
+}
+
+/* project details inner page */
+
+.project-details-section {
+    padding: 72px 0 72px;
+}
+
+.projetct-details-image {
+    margin-bottom: 20px;
+}
+
+.projetct-details-image img {
+    width: 100%;
+}
+
+.project-details-section .info-area {
+    margin-bottom: 20px;
+}
+
+.project-details-section .info li {
+    padding: 4px 0;
+}
+
+.project-details-section .info li h6 {
+    font-size: 16px;
+}
+
+.project-details-section .info li p {
+    font-size: 13px;
+    margin: 10px 0px 0;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    width:80%;
+}
+
+/* blog inner page  */
+
+.blog-section.style-two {
+    padding: 72px 0 44px;
+}
+
+.blog-bottom-title {
+    margin-right: 50px;
+}
+
+.as-pagination {
+    margin-bottom: 50px;
+}
+
+.recent-widget-thumb {
+    margin-top: -4px;
+}
+
+/* blog details inner page */
+
+.blog-section.style-three {
+    padding: 72px 0 74px;
+}
+
+.blog-title h4 a {
+    font-size: 20px;
+}
+
+.blog-details-thumb {
+    margin-bottom: 30px;
+}
+
+.blog-details-title h5 {
+    font-size: 21px;
+}
+
+blockquote {
+    padding: 25px 12px 30px;
+    font-size: 14px;
+}
+
+.ba-blog-comment-list {
+    margin-bottom: -60px;
+}
+
+.ba-blog-comment-list ul li .ba-blog-comment-box {
+    padding-bottom: 20px;
+}
+
+.ba-blog-comment-list ul li .ba-blog-comment-box.inner {
+    margin: 25px 0px 30px;
+}
+
+.ba-blog-comment-list ul li .image {
+    float: none;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.ba-blog-comment-list ul li .image img {
+    width: 30%;
+}
+
+/* team inner page css */
+
+.team-section.style-three {
+    padding: 55px 0 44px;
+}
+
+/* team details inner page  */
+
+.team-details-section {
+    padding: 60px 0 74px;
+}
+
+.team-details-author-img {
+    margin-top: 35px;
+}
+
+.team-details-author-content {
+    margin-bottom: -40px;
+}
+
+.team-details-author-name {
+    margin-bottom: 4px;
+}
+
+.team-details-author-experience ul li .value {
+    font-size: 13px;
+}
+
+
+.choose-contact-box.faq {
+    padding: 46px 38px 60px;
+}
+
+/* error inner page  */
+
+.error-section {
+    padding: 73px 0 74px;
+}
+
+/* contact us inner page */
+
+.contact-section {
+    padding: 60px 0 72px;
+}
+
+}
+
+
+
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+.kayan-topbar-section {
+    display: none;
+}
+
+.kayan-header-section {
+    display: none;
+}
+
+/* slider section */
+
+.slider-list.owl-carousel.owl-loaded.owl-drag {
+    display: inline-block;
+}
+
+.slider-section {
+    height: 700px;
+    display: block !important;
+}
+
+.slider-content {
+    padding: 166px 0 0;
+}
+
+.slider-content h1 {
+    font-size: 46px;
+    line-height: 44px;
+}
+
+.slider-content p {
+    width: 92%;
+    margin: 29px 0 43px;
+}
+
+/* slider styel two */
+
+.slider-content.style.two {
+    padding: 90px 0 0;
+}
+
+/* owl nav css */
+
+.owl-nav {
+    right: 8px;
+}
+
+.owl-prev i {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.owl-next i {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+}
+
+/* section main title */
+
+.section-main-title h2 {
+    font-size: 40px;
+}
+
+/* appointment section */
+
+.appointment-contact-title h4 {
+    font-size: 40px;
+}
+
+/* about section */
+
+.about-section {
+    padding: 73px 0 60px;
+}
+
+.about-thumb {
+    margin-bottom: 53px;
+}
+
+.about-text {
+    left: -27px;
+}
+
+.about-shape {
+    left: -27px;
+    z-index: -1;
+}
+
+.about-numbar {
+    margin-bottom: 30px;
+}
+
+.kayan-btn.about a {
+    padding: 13px 13px;
+    font-size: 16px;
+}
+
+.about-us-icon i {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+}
+
+/* service section  */
+
+.service-section {
+    padding: 58px 0 43px;
+}
+
+/* offer section */
+
+.offer-section {
+    padding: 58px 0 50px;
+}
+
+.offer-content {
+    margin-left: -23px;
+}
+
+.offer-thumb {
+    margin-top: 55px;
+}
+
+/* counter section */
+
+.counter-section {
+    padding: 0px 0 37px;
+}
+
+.counter-item-box {
+    padding: 23px 67px 5px;
+    display: grid;
+    text-align: center;
+    border: none;
+}
+
+.counter-icon {
+    float: inherit;
+    margin: 0px 14px 20px;
+}
+
+/* choose us section */
+
+.choose-us-section {
+    padding: 0 0 52px;
+}
+
+.choose-us-section .section-title {
+    margin: 23px 35px 0;
+}
+
+.section-sub-title.offer h4 {
+    padding-left: 0;
+    font-size: 18px;
+}
+
+.section-main-title.offer h2 {
+    line-height: 25px;
+    font-size: 26px;
+}
+
+.choose-us-thumb {
+    margin-left: 36px;
+}
+
+.choose-us-discription {
+    margin-left: 47px;
+}
+
+.choose-us-box {
+    padding: 20px 10px 1px;
+    margin-left: 45px;
+}
+
+/* call do section */
+
+.col-do-section::before {
+    display: none;
+}
+
+.col-do-section::after {
+    display: none;
+}
+
+.call-do-title {
+    text-align: center;
+}
+
+.call-do-title h4 {
+    font-size: 23px;
+    line-height: 30px;
+}
+
+.col-do-icon {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* team section */
+
+.team-section {
+    padding: 34px 0 44px;
+}
+
+.team-section .section-main-title h2 {
+    font-size: 43px;
+}
+
+
+
+.team-items-box {
+    margin-bottom: 40px;
+}
+
+/* portfolio section */
+
+.portfolio-section {
+    padding: 35px 0 34px;
+}
+
+.portfolio-section .container-fluid {
+    margin-left: 0;
+}
+
+.portfolio-content {
+    left: 0;
+}
+
+.portfolio-content-text {
+    width: 80%;
+}
+
+
+/* testimonila section */
+
+.testi-itmes-box {
+    padding: 50px 13px 26px;
+}
+
+/* blog section */
+
+.blog-section {
+    padding: 32px 0 43px;
+}
+
+.blog-items-box {
+    margin-bottom: 30px;
+}
+
+.blog-content {
+    padding: 0 14px 0;
+}
+
+.blog-thumb.two {
+    float: inherit;
+    text-align: center;
+    margin-right: 32px;
+}
+
+.blog-title.two::before {
+    display: none;
+}
+
+/* get start section */
+
+.get-strat-section .section-main-title h2 {
+    font-size: 31px;
+    margin-bottom: 10px;
+}
+
+/* subsccribe section */
+
+.sbuscribe-content h2 {
+    font-size: 46px;
+    line-height: 50px;
+}
+
+.subscribe-section .form-box-button {
+    right: -25px;
+}
+
+/* footer section */
+
+.footer-section {
+    padding: 72px 0 0px;
+}
+
+.footer-wiget {
+    margin-bottom: 40px;
+}
+
+.footer-thumb {
+    display: none;
+}
+
+.footer-icon {
+    display: none;
+}
+
+.footer-shape {
+    display: none;
+}
+
+.company-work-hour ul li span {
+    padding: 0 13px 0;
+}
+
+.row.footer-line {
+    margin: 40px 0 0;
+}
+
+.copyright-text {
+    text-align: center;
+}
+
+.copyright-text p {
+    font-size: 16px;
+}
+
+.footer-condition {
+    text-align: center;
+}
+
+.footer-condition ul li {
+    margin-right: -26px;
+}
+
+/* home page style two css */
+
+.slider-section.style-two {
+    height: 615px;
+}
+
+.slider-content.style-two {
+    padding: 72px 22px 64px;
+    margin: 72px 0 0px;
+}
+
+/* about style three */
+
+.about-section.style-three {
+    padding: 73px 0 0px;
+}
+
+.about-section-main-title h2 {
+    font-size: 43px;
+}
+
+.about-text.style-two {
+    display: none;
+}
+
+.about-shape-two {
+    display: none;
+}
+
+/* service style two */
+
+.service-section.style-two {
+    padding: 26px 0 12px;
+}
+
+.service-section.style-two .section-title {
+    text-align: center;
+}
+
+/* faq inner page  */
+
+.faq-section {
+    padding: 57px 0 45px;
+}
+
+.faq-thumb {
+    display: none;
+}
+
+.faq-section .owl-dots {
+    display: none;
+}
+
+/* protfolio secton style two */
+
+.portfolio-section.style-two {
+    padding: 58px 0 42px;
+}
+
+.portfolio-section.style-two .section-main-title h2 {
+    font-size: 40px;
+}
+
+/* testimonial section style two */
+
+.testimonial-section.style-two {
+    padding: 58px 0 0px;
+}
+
+.testimonial-thumb {
+    margin-top: 130px;
+    margin-left: -27px;
+}
+
+.testimonial-shape {
+    display: none;
+}
+
+.testimonial-section.style-two .no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+}
+
+/* pricing section */
+
+.pricing-section {
+    padding: 58px 0 42px;
+}
+
+.pricing-box {
+    margin-bottom: 30px;
+}
+
+/* offer section style two */
+
+.offer-section.style-two {
+    padding: 63px 0px 73px;
+}
+
+.offer-section.style-two .barfiller {
+    width: 100%;
+}
+
+.offer-contact-box {
+    padding: 38px 30px 45px;
+}
+
+.offer-section.style-two .form-box-button {
+    text-align: center;
+}
+
+.offer-email {
+    margin-bottom: 45px;
+}
+
+.offer-contact-shape {
+    display: none;
+}
+
+
+/* about us innnr page  */
+
+.about-section.style-two {
+    padding: 74px 0 72px;
+}
+
+.counter-section.style-two {
+    padding: 50px 0 20px;
+}
+
+/* service inner page  */
+
+.service-section.style-two {
+    padding: 58px 0 32px;
+}
+
+/* service details inner page */
+
+.service-details-section {
+    padding: 73px 0 0px;
+}
+
+.service-section.style-three {
+    padding: 58px 0 18px;
+}
+
+.service-details-thumb-two {
+    margin-bottom: 30px;
+}
+
+.service-section.style-four {
+    padding: 48px 0 17px;
+}
+
+/* project grid inner page css */
+
+.projecti-grid-section {
+    padding: 74px 0 43px;
+}
+
+.protfolio-menu ul li {
+    padding: 8px 9px;
+    margin: 0px 4px 50px;
+    font-size: 14px;
+}
+
+.project-content h4 {
+    font-size: 18px;
+}
+
+/* project details inner page */
+
+.project-details-section {
+    padding: 72px 0 72px;
+}
+
+.projetct-details-image {
+    margin-bottom: 20px;
+}
+
+.projetct-details-image img {
+    width: 100%;
+}
+
+.project-details-section .info-area {
+    margin-bottom: 20px;
+}
+
+.project-details-section .info li {
+    padding: 4px 0;
+}
+
+.project-details-section .info li h6 {
+    font-size: 16px;
+}
+
+.project-details-section .info li p {
+    font-size: 13px;
+    margin: 10px 0px 0;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    width:80%;
+}
+
+.project-details-section .desc-list li p {
+    font-size: 14px;
+}
+
+/* blog inner page  */
+
+.blog-section.style-two {
+    padding: 72px 0 72px;
+}
+
+.blog-bottom-title {
+    margin-right: 50px;
+}
+
+.as-pagination {
+    margin-bottom: 50px;
+}
+
+.recent-widget-thumb {
+    margin-top: -18px;
+}
+
+/* blog details inner page */
+
+.blog-section.style-three {
+    padding: 72px 0 74px;
+}
+
+.blog-title h4 a {
+    font-size: 18px;
+}
+
+.blog-details-thumb {
+    margin-bottom: 30px;
+}
+
+.blog-details-title h5 {
+    font-size: 18px;
+}
+
+blockquote {
+    padding: 25px 12px 30px;
+    font-size: 12px;
+}
+
+.ba-blog-details-social-icons h6 {
+    margin-right: 3px;
+}
+
+.ba-blog-details-social-icons a i {
+    font-size: 14px;
+}
+
+.ba-blog-comment-list {
+    margin-bottom: -60px;
+}
+
+.ba-blog-comment-list ul li .ba-blog-comment-box {
+    padding-bottom: 20px;
+}
+
+.ba-blog-comment-list ul li .ba-blog-comment-box.inner {
+    margin: 25px 0px 30px;
+}
+
+.ba-blog-comment-list ul li .image {
+    float: none;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.ba-blog-comment-list ul li .image img {
+    width: 30%;
+}
+
+/* team inner page css */
+
+.team-section.style-three {
+    padding: 55px 0 44px;
+}
+
+/* team details inner page  */
+
+.team-details-section {
+    padding: 60px 0 74px;
+}
+
+.team-details-author-img {
+    margin-top: 35px;
+}
+
+.team-details-author-content {
+    margin-bottom: -40px;
+}
+
+.team-details-author-name {
+    margin-bottom: 4px;
+}
+
+.team-details-author-experience ul li .value {
+    font-size: 13px;
+}
+
+/* faq inner page  */
+
+.faq-section {
+    padding: 57px 0 80px;
+}
+
+.choose-contact-box.faq {
+    padding: 46px 38px 60px;
+}
+
+/* error inner page  */
+
+.error-section {
+    padding: 73px 0 74px;
+}
+
+/* contact us inner page */
+
+.contact-section {
+    padding: 60px 0 72px;
+}
+
+
+
+}
+
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px)  {
+
+.kayan-topbar-section {
+    display: none;
+}
+
+.kayan-header-section {
+    display: none;
+}
+
+/* slider section */
+
+.slider-list.owl-carousel.owl-loaded.owl-drag {
+    display: inline-block;
+}
+
+.slider-section {
+    height: 600px;
+    display: block !important;
+}
+
+.slider-content {
+    padding: 110px 0 0;
+}
+
+.slider-content h4 {
+    font-size: 21px;
+    margin-bottom: 24px;
+}
+
+.slider-content h1 {
+    font-size: 28px;
+    line-height: 29px;
+}
+
+.slider-content p {
+    width: 100%;
+    margin: 22px 0 28px;
+    font-size: 14px;
+}
+
+.kayan-btn.slider1 a {
+    padding: 10px 10px;
+    font-size: 14px;
+}
+
+.kayan-btn.slider2 a {
+    padding: 10px 10px;
+    font-size: 14px;
+}
+
+/* owl nav css */
+
+.owl-nav {
+    right: 50%;
+    display: inline-flex;
+    bottom: 25px;
+    left: 38%;
+    margin: auto;
+}
+
+.owl-prev i {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+.owl-next i {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    margin-left: 13px;
+}
+
+/* section main title */
+
+.section-sub-title h4 {
+    font-size: 22px;
+}
+
+.section-main-title h2 {
+    font-size: 35px;
+    line-height: 50px;
+}
+
+/* appointment section */
+
+.appointment-contact-title h4 {
+    font-size: 40px;
+    line-height: 50px;
+}
+
+/* about section */
+
+.about-section {
+    padding: 73px 0 60px;
+}
+
+.about-thumb {
+    margin-bottom: 53px;
+}
+
+.about-text {
+    left: 17px;
+}
+
+.about-text h5 {
+    font-size: 18px;
+    padding: 14px 28px;
+}
+
+.about-shape {
+    display: none;
+}
+
+.about-numbar {
+    margin-bottom: 30px;
+}
+
+.kayan-btn.about a {
+    padding: 13px 13px;
+    font-size: 16px;
+}
+
+.about-us-icon i {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+}
+
+/* service section  */
+
+.service-section {
+    padding: 58px 0 43px;
+}
+
+/* offer section */
+
+.offer-section {
+    padding: 58px 0 50px;
+}
+
+.offer-item-thumb {
+    display: none;
+}
+
+.offer-content {
+    margin-left: -160px;
+}
+
+.offer-thumb {
+    margin-top: 55px;
+}
+
+.offer-section .barfiller {
+    width: 100%;
+}
+
+.offer-section span.process-bar {
+    font-size: 16px;
+}
+
+/* counter section */
+
+.counter-section {
+    padding: 0px 0 37px;
+}
+
+.counter-item-box {
+    padding: 23px 67px 5px;
+    display: grid;
+    text-align: center;
+    border: none;
+}
+
+.counter-icon {
+    float: inherit;
+    margin: 0px 14px 20px;
+}
+
+/* choose us section */
+
+.choose-us-section {
+    padding: 0 0 52px;
+}
+
+.choose-us-section .container-fluid {
+    padding-right: 0px;
+}
+
+.choose-us-section .section-title {
+    margin: 23px 35px 0;
+}
+
+.section-sub-title.offer h4 {
+    padding-left: 0;
+    font-size: 16px;
+    margin-left: -23px;
+}
+
+.section-main-title.offer {
+    margin-bottom: 35px;
+    margin-left: -23px;
+}
+
+.section-main-title.offer h2 {
+    line-height: 18px;
+    font-size: 18px;
+}
+
+.choose-us-thumb {
+    margin-left: 36px;
+}
+
+.choose-us-discription {
+    margin-left: 17px;
+}
+
+.choose-us-box {
+    padding: 20px 5px 1px;
+    margin-left: 18px;
+}
+
+/* call do section */
+
+.col-do-section::before {
+    display: none;
+}
+
+.col-do-section::after {
+    display: none;
+}
+
+.call-do-title {
+    text-align: center;
+}
+
+.call-do-title h4 {
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.col-do-icon {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* team section */
+
+.team-section {
+    padding: 34px 0 44px;
+}
+
+.team-section .section-sub-title h4 {
+    font-size: 20px;
+}
+
+.team-section .section-main-title h2 {
+    font-size: 28px;
+    line-height: 35px;
+}
+
+.team-items-box {
+    margin-bottom: 40px;
+}
+
+.team-main-icon {
+    bottom: -5px;
+}
+
+/* portfolio section */
+
+.portfolio-section {
+    padding: 35px 0 34px;
+}
+
+.portfolio-section .container-fluid {
+    margin-left: 0;
+}
+
+.portfolio-section .section-sub-title.offer h4 {
+    padding-left: 0;
+    font-size: 16px;
+    margin-left: 0px;
+}
+
+.portfolio-section .section-main-title.offer {
+    margin-bottom: 35px;
+    margin-left: 0px;
+}
+
+.portfolio-content {
+    left: 0;
+}
+
+.portfolio-content-text {
+    width: 80%;
+}
+
+
+/* testimonila section */
+
+.testi-itmes-box {
+    padding: 50px 13px 26px;
+}
+
+.testi-thumb {
+    display: none;
+}
+
+/* blog section */
+
+.blog-section {
+    padding: 32px 0 43px;
+}
+
+.blog-items-box {
+    margin-bottom: 30px;
+}
+
+.blog-date {
+    display: none;
+}
+
+.blog-content {
+    padding: 0 14px 0;
+}
+
+.blog-meta span {
+    padding-right: 40px;
+}
+
+.blog-bottom-title {
+    margin-right: 20px;
+}
+
+/* blog style two */
+
+.blog-thumb.two {
+    float: inherit;
+    text-align: center;
+    margin-right: 32px;
+}
+
+.blog-meta.style-three span {
+    padding-right: 12px;
+}
+
+.blog-bottom-shape {
+    margin-right: 4px;
+}
+
+.blog-bottom-title.two {
+    margin-right: 20px;
+}
+
+.blog-bottom-title.style-three {
+    margin-right: 9px;
+}
+
+.blog-title.two::before {
+    display: none;
+}
+
+/* get start section */
+
+.get-strat-section .section-main-title h2 {
+    font-size: 31px;
+    margin-bottom: 10px;
+    line-height: 39px;
+}
+
+.get-start-discription p {
+    font-size: 15px;
+}
+
+.kayan-btn.get a {
+    padding: 12px 24px;
+    font-size: 16px;
+}
+
+/* subsccribe section */
+
+.sbuscribe-content h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.subscribe-section .form-box-button {
+    position: inherit;
+    left: 0;
+}
+
+/* footer section */
+
+.footer-section {
+    padding: 72px 0 0px;
+}
+
+.footer-wiget {
+    margin-bottom: 40px;
+}
+
+.footer-thumb {
+    display: none;
+}
+
+.footer-icon {
+    display: none;
+}
+
+.footer-shape {
+    display: none;
+}
+
+.company-work-hour ul li span {
+    padding: 0 13px 0;
+}
+
+.row.footer-line {
+    margin: 40px 0 0;
+}
+
+.copyright-text {
+    text-align: center;
+}
+
+.copyright-text p {
+    font-size: 16px;
+}
+
+.footer-condition {
+    text-align: center;
+}
+
+.footer-condition ul li {
+    margin-right: -43px;
+}
+
+/* home page style two css */
+
+.slider-section.style-two {
+    height: 615px;
+}
+
+.slider-content.style-two {
+    padding: 72px 22px 64px;
+    margin: 72px 0 0px;
+}
+
+/* about style three */
+
+.about-section.style-three {
+    padding: 73px 0 0px;
+}
+
+.about-section-sub-title h4 {
+    font-size: 22px;
+}
+
+.about-section-main-title h2 {
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.about-text.style-two {
+    display: none;
+}
+
+.about-shape-two {
+    display: none;
+}
+
+.about-us-phone {
+    display: none;
+}
+
+/* service style two */
+
+.service-section.style-two {
+    padding: 26px 0 12px;
+}
+
+.service-section.style-two .section-title {
+    text-align: center;
+}
+
+/* faq inner page  */
+
+.faq-section {
+    padding: 57px 0 45px;
+}
+
+.faq-thumb {
+    display: none;
+}
+
+.faq-section .owl-dots {
+    display: none;
+}
+
+/* protfolio secton style two */
+
+.portfolio-section.style-two {
+    padding: 58px 0 42px;
+}
+
+.portfolio-section.style-two .section-main-title h2 {
+    font-size: 40px;
+}
+
+/* testimonial section style two */
+
+.testimonial-section.style-two {
+    padding: 58px 0 0px;
+}
+
+.testi-content-discripton p {
+    font-size: 20px;
+    line-height: 38px;
+}
+
+.testimonial-thumb {
+    margin-top: 130px;
+    margin-left: -27px;
+}
+
+.testimonial-shape {
+    display: none;
+}
+
+.testimonial-section.style-two .no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+}
+
+/* pricing section */
+
+.pricing-section {
+    padding: 58px 0 42px;
+}
+
+.pricing-box {
+    margin-bottom: 30px;
+}
+
+/* offer section style two */
+
+.offer-section.style-two {
+    padding: 63px 0px 73px;
+}
+
+.offer-section.style-two .section-sub-title.offer h4 {
+    padding-left: 0;
+    font-size: 16px;
+    margin-left: 0px;
+}
+
+.offer-section.style-two .section-main-title.offer {
+    margin-bottom: 35px;
+    margin-left: 0px;
+}
+
+.offer-section.style-two .barfiller {
+    width: 100%;
+}
+
+.offer-contact-box {
+    padding: 38px 15px 45px;
+}
+
+.offer-contact-title h4 {
+    font-size: 26px;
+}
+
+.offer-contact-title span {
+    font-size: 15px;
+}
+
+.offer-section.style-two .form-box-button {
+    text-align: center;
+}
+
+.offer-email {
+    margin-bottom: 45px;
+}
+
+.offer-contact-shape {
+    display: none;
+}
+
+
+/* about us innnr page  */
+
+.about-section.style-two {
+    padding: 74px 0 72px;
+}
+
+.counter-section.style-two {
+    padding: 50px 0 20px;
+}
+
+/* service inner page  */
+
+.service-section.style-two {
+    padding: 58px 0 32px;
+}
+
+/* service details inner page */
+
+.service-details-section {
+    padding: 73px 0 0px;
+}
+
+.service-section.style-three {
+    padding: 58px 0 18px;
+}
+
+.service-details-thumb-two {
+    margin-bottom: 30px;
+}
+
+.service-section.style-four {
+    padding: 48px 0 17px;
+}
+
+/* project grid inner page css */
+
+.projecti-grid-section {
+    padding: 74px 0 43px;
+}
+
+.protfolio-menu ul li {
+    padding: 6px 14px;
+    margin: 0px 0px 27px;
+    font-size: 16px;
+}
+
+.project-content h4 {
+    font-size: 16px;
+}
+
+/* project details inner page */
+
+.project-details-section {
+    padding: 72px 0 72px;
+}
+
+.projetct-details-image {
+    margin-bottom: 20px;
+}
+
+.projetct-details-image img {
+    width: 100%;
+}
+
+.project-details-section .info-area {
+    margin-bottom: 20px;
+    padding-left: 0;
+}
+
+.project-details-section .info li {
+    padding: 4px 0;
+}
+
+.project-details-section .info li h6 {
+    font-size: 16px;
+}
+
+.project-details-section .info li p {
+    font-size: 13px;
+    margin: 10px 0px 0;
+}
+
+.project-details-section .title h4 {
+    font-size: 24px;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    width:80%;
+}
+
+.project-details-section .desc-list li p {
+    font-size: 14px;
+}
+
+/* blog inner page  */
+
+.blog-section.style-two {
+    padding: 72px 0 72px;
+}
+
+.blog-bottom-shape.style-two {
+    display: none;
+}
+
+.blog-bottom-title.style-two {
+    margin-right: 30px;
+}
+
+.as-pagination {
+    margin-bottom: 50px;
+}
+
+.recent-widget-thumb {
+    margin-top: -3px;
+}
+
+/* blog details inner page */
+
+.blog-section.style-three {
+    padding: 72px 0 74px;
+}
+
+.blog-meta.style-two span {
+    font-size: 14px;
+    padding-right: 11px;
+}
+
+.blog-title h4 a {
+    font-size: 18px;
+}
+
+.blog-disctiption p {
+    font-size: 14px;
+}
+
+.blog-details-thumb {
+    margin-bottom: 30px;
+}
+
+.blog-details-list ul li {
+    font-size: 14px;
+}
+
+.blog-details-list ul li i {
+    font-size: 16px;
+}
+
+.blog-details-title h5 {
+    font-size: 18px;
+}
+
+blockquote {
+    padding: 25px 0px 30px;
+    font-size: 11px;
+}
+
+.blog-details-social-box {
+    display: none;
+}
+
+.ba-blog-comment-list {
+    margin-bottom: -60px;
+}
+
+.ba-blog-comment-list ul li .ba-blog-comment-box {
+    padding-bottom: 20px;
+}
+
+.content-main p {
+    font-size: 14px;
+}
+
+.ba-blog-comment-list ul li .ba-blog-comment-box.inner {
+    margin: 25px 0px 30px;
+}
+
+.ba-blog-comment-list ul li .image {
+    float: none;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.ba-blog-comment-list ul li .image img {
+    width: 30%;
+}
+
+/* form box */
+
+.form-box.inner textarea {
+    height: 120px;
+}
+
+/* team inner page css */
+
+.team-section.style-three {
+    padding: 55px 0 44px;
+}
+
+/* team details inner page  */
+
+.team-details-section {
+    padding: 60px 0 74px;
+}
+
+.team-details-author-img {
+    margin-top: 35px;
+}
+
+.team-details-author-content {
+    margin-bottom: -40px;
+}
+
+.team-details-author-name {
+    margin-bottom: 4px;
+}
+
+.team-details-author-experience ul li .value {
+    font-size: 13px;
+}
+
+/* faq inner page  */
+
+.faq-section {
+    padding: 57px 0 80px;
+}
+
+.section-main-title.faq h2 {
+    font-size: 27px;
+}
+
+.choose-contact-box.faq {
+    padding: 46px 13px 60px;
+}
+
+.choose-contact-title.faq h4 {
+    font-size: 24px;
+}
+
+.faq-discription p {
+    font-size: 17px;
+}
+
+.form-box-button.faq button {
+    width: 100%;
+    height: 55px;
+}
+
+/* error inner page  */
+
+.error-section {
+    padding: 73px 0 74px;
+}
+
+.error-thumb img {
+    width: 100%;
+}
+
+/* contact us inner page */
+
+.contact-section {
+    padding: 60px 0 72px;
+}
+
+.contact-discription p {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.contact-icon {
+    margin-right: 7px;
+}
+
+
+/* breatcome css */
+
+.breatcome-title h1 {
+    font-size: 36px;
+}
+
+.bratcome-text {
+    left: 0;
+}
+
+
+
+
+}
+
+
+
+
+
+/*xl device min width*/
+@media screen and (min-width:992px) {
+.pl-lg-50 {
+    padding-left: 50px;
+}
+}
+
+/*xl device min width*/
+@media screen and (min-width:1200px) {
+
+}
